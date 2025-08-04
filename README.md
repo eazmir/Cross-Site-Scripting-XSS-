@@ -2,7 +2,7 @@
 
 ## About XSS
 <div style="text-align: center;">
-  <img src="https://github.com/eazmir/Cross-Site-Scripting-XSS-/image/atteckXSS.png?raw=true" alt="XSS_img">
+  <img src="https://raw.githubusercontent.com/eazmir/Cross-Site-Scripting-XSS-/main/image/atteckXSS.png" alt="XSS Attack Diagram">
 </div>
 
 XSS or Cross Site Scripting is an attack technique where attacker insert html tag or arbitary javascript code to attempt attack to the user. Example of XSS attacks are:
